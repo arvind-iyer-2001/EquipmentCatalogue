@@ -1,6 +1,6 @@
 # equipmentCatalogue
 
-A new Flutter project.
+A new flutur project.
 
 ## Getting Started
 
